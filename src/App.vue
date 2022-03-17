@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <SitesFavoritos/>
+    <DesafioI/>
   </div>
 </template>
 
 <script>
-import SitesFavoritos from './components/SitesFavoritos.vue'
+import DesafioI from './components/DesafioI.vue'
 export default {
   name: 'App',
   components: {
-    SitesFavoritos
+    DesafioI
   }
 }
 </script>
